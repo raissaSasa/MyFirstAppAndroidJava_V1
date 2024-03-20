@@ -1,0 +1,66 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="WELCOME">WELCOME TO RAISSA_QUIZ</string>
+    <string name="FIRST">What is your name ?</string>
+    <string name="buttonPlay">Let\'s play</string>
+    <string name="firstInput">Please, enter your name</string>
+    <string name="text1">Hello I am Miss Raïssa TEPE !</string>
+    <string name="edit_profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="myName">Raissa Tepe</string>
+    <string name="email">Email</string>
+    <string name="email_text">raissa.tepe@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">+228 93 51 77 54</string>
+    <string name="birthday">Date of birthday</string>
+    <string name="birthday_date">05/09/1999</string>
+    <string name="address">Address</string>
+    <string name="address_content">Lomé, Quartier Agodékè</string>
+    <string name="explore">Explore</string>
+    <string name="trip">Trip</string>
+    <string name="profile">Profile</string>
+    <string name="Register_open_snippets">Register open snippets</string>
+    <string name="Name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm-password</string>
+    <string name="create_account">Create account</string>
+    <string name="fill_name">Veuillez entrer votre nom</string>
+    <string name="fill_email">Veuillez entrer l\'email</string>
+    <string name="fill_phone">Veuillez entrer votre numero</string>
+    <string name="fill_password">Veuillez entrer le mot de passe</string>
+    <string name="fill_confirm_password">Veuillez confirmer le mot de passe</string>
+    <string name="fill_all_input">Veuillez renseigner tous les champs.</string>
+    <string name="wrong_password">Les mots de passes ne correspondent pas</string>
+    <string name="radio_register_os">Le sexe selectionné est : </string>
+    <string name="radio1_register_os">F</string>
+    <string name="radio2_register_os">M</string>
+    <string name="success_message">Tout est OK</string>
+    <string name="login">Connexion</string>
+    <string name="sexe_feminin">F</string>
+    <string name="sexe_masculin">M</string>
+    <string name="level_student">Niveau d\'étude</string>
+    <string name="sex">Sexe</string>
+
+    //
+    <string-array name="level_person">
+        <item>primaire</item>
+        <item>secondaire</item>
+        <item>supérieur</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Sweater">Sweater</string>
+    <string name="Box">Box</string>
+    <string name="form1">Formulaire 1</string>
+    <string name="Personal_info">Personal info</string>
+    <string name="Billing">Billing</string>
+    <string name="Review">Review</string>
+    <string name="Personal_information">Personal Information</string>
+    <string name="full_name">Full name</string>
+    <string name="street_address">Street Address</string>
+    <string name="add">Add</string>
+    <string name="UserList">Users list</string>
+    <string name="UsersList">Users List</string>
+    <string name="quiz">Quiz</string>
+</resources>
